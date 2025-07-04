@@ -46,7 +46,7 @@ Whether you're preparing after college hours, during commutes, or over the weeke
 
 > Prerequisites:
 
-- Python 3.8 or later
+- Python 3.9 or later
 - Streamlit installed (`pip install streamlit`)
 
 ### 🔧 Run the app locally:
