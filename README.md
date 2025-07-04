@@ -14,7 +14,7 @@ This project is a one-stop portal for your IELTS preparation, integrating:
 - 📝 Mock Tests and Practice Tools
 - 🗣️ Speaking Practice Resources
 - ✍️ Writing Task Resources
-- 📆 Smart Study Planner for busy schedules
+- 📆 Smart Study Planner 
 - 📌 Extra tools, tips, and trackers
 
 Whether you're preparing after college hours, during commutes, or over the weekend, this hub is designed to help you consistently target an **8+ Band Score**.
@@ -47,7 +47,7 @@ Whether you're preparing after college hours, during commutes, or over the weeke
 > Prerequisites:
 
 - Python 3.9 or later
-- Streamlit installed (`pip install streamlit numpy`)
+- Streamlit installed (`pip install streamlit`)
 
 ### 🔧 Run the app locally:
 
